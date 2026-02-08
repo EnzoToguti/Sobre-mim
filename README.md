@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="20"/>***
 
 # **Formações 📘🎓** #
-### ***1° Ano do Ensino Médio (Curso TDS)*** ###
+### ***2° Ano do Ensino Médio (Curso TDS)*** ###
 * Cursando na Alura ***[<img src="https://yt3.googleusercontent.com/8Y6tB7Z7c4RLSi8Y8YwP0dlmbmWBItZGwCfW4VXcEgTIMWBoE15mVYWWtscnMr-yIZsmGgOo%3Ds900-c-k-c0x00ffffff-no-rj" width="20" alt="Logo Alura" />](https://alura.com.br)***
 
 # **Entrar em contato 📩** #
